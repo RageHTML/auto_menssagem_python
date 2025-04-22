@@ -1,0 +1,1 @@
+# estudando sobre apis e uso de bibliotecas em python
